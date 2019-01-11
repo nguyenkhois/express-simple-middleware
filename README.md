@@ -1,2 +1,2 @@
-# expressjs-simple-middleware
+# express-simple-middleware
 The simple Express middleware
